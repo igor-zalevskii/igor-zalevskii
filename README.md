@@ -23,6 +23,8 @@
 ![SCIKITLEARN](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![BEAUTIFULSOUP](https://img.shields.io/badge/Beautiful_Soup-3A6E9E?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![OPENREFINE](https://img.shields.io/badge/OpenRefine-1563A0?style=for-the-badge&logo=openrefine&logoColor=white)
+API
+хадуп
 -->
 
 ---
