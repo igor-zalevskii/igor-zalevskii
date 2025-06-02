@@ -1,7 +1,4 @@
-
-
-
-
+## DA toolkit
 ![PYTHON](https://img.shields.io/badge/Python-5E1F1F?style=for-the-badge&logo=python&logoColor=FFFAF0)
 ![JUPYTER](https://img.shields.io/badge/Jupyter-5E1F1F?style=for-the-badge&logo=jupyter&logoColor=FFFAF0)
 ![PANDAS](https://img.shields.io/badge/Pandas-552222?style=for-the-badge&logo=pandas&logoColor=FDF2E3)
@@ -16,17 +13,10 @@
 ![MONGODB](https://img.shields.io/badge/MongoDB-472D2D?style=for-the-badge&logo=mongodb&logoColor=FFFAF0)
 ![APACHE_SPARK](https://img.shields.io/badge/Apache_Spark-472D2D?style=for-the-badge&logo=apachespark&logoColor=FFFAF0)
 
-
-
 ![POWERBI](https://img.shields.io/badge/Power_BI-5E1F1F?style=for-the-badge&logo=powerbi&logoColor=F5EFE7)
 
 ![STATISTICS](https://img.shields.io/badge/Statistics-5E1F1F?style=for-the-badge&logo=mathworks&logoColor=FFE9B0)
 ![REGEX](https://img.shields.io/badge/Regex-5E1F1F?style=for-the-badge&logo=regex&logoColor=FFE9B0)
-
-
-
-
-
 
 
 <!-- 
@@ -38,10 +28,19 @@
 ![OPENREFINE](https://img.shields.io/badge/OpenRefine-1563A0?style=for-the-badge&logo=openrefine&logoColor=white)
 -->
 
+---
 
 ## Projects
-**[t-test](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)** - Food delivery time analysis.  
-**[Project Euler Solutions](https://github.com/igor-zalevskii/Project-Euler)** - Optimized mathematical problem-solving.  
+
+### [t-test](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)  
+Food Delivery Time Analysis  
+`pandas` `seaborn` `scipy`  `Statistics`
+
+### [Project Euler Solutions](https://github.com/igor-zalevskii/Project-Euler)  
+Optimized Mathematical Problem Solving  
+`algorithms`
+
+---
 
 ## Contacts
 Email: igor-zalevskii@yandex.ru
