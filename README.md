@@ -1,22 +1,19 @@
 ## DA toolkit
-![PYTHON](https://img.shields.io/badge/Python-5E1F1F?style=for-the-badge&logo=python&logoColor=FFFAF0)
-![JUPYTER](https://img.shields.io/badge/Jupyter-5E1F1F?style=for-the-badge&logo=jupyter&logoColor=FFFAF0)
-![PANDAS](https://img.shields.io/badge/Pandas-552222?style=for-the-badge&logo=pandas&logoColor=FDF2E3)
-![NUMPY](https://img.shields.io/badge/NumPy-552222?style=for-the-badge&logo=numpy&logoColor=FDF2E3)
-![SCIPY](https://img.shields.io/badge/SciPy-552222?style=for-the-badge&logo=scipy&logoColor=FDF2E3)
-![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-3C2F2F?style=for-the-badge&logo=matplotlib&logoColor=F8E9D0)
-![SEABORN](https://img.shields.io/badge/Seaborn-3C2F2F?style=for-the-badge&logo=seaborn&logoColor=F8E9D0)
-
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-681C1C?style=for-the-badge&logo=postgresql&logoColor=FFF3DC)
-![SQLITE](https://img.shields.io/badge/SQLite-681C1C?style=for-the-badge&logo=sqlite&logoColor=FFF3DC)
-![SPREADSHEETS](https://img.shields.io/badge/Spreadsheets-6A2E2E?style=for-the-badge&logo=google-sheets&logoColor=FFF5DC)
-![MONGODB](https://img.shields.io/badge/MongoDB-472D2D?style=for-the-badge&logo=mongodb&logoColor=FFFAF0)
-![APACHE_SPARK](https://img.shields.io/badge/Apache_Spark-472D2D?style=for-the-badge&logo=apachespark&logoColor=FFFAF0)
-
-![POWERBI](https://img.shields.io/badge/Power_BI-5E1F1F?style=for-the-badge&logo=powerbi&logoColor=F5EFE7)
-
-![STATISTICS](https://img.shields.io/badge/Statistics-5E1F1F?style=for-the-badge&logo=mathworks&logoColor=FFE9B0)
-![REGEX](https://img.shields.io/badge/Regex-5E1F1F?style=for-the-badge&logo=regex&logoColor=FFE9B0)
+![PYTHON](https://img.shields.io/badge/Python-5E1F1F?style=for-the-badge&logo=python&logoColor=FFFDFD)
+![JUPYTER](https://img.shields.io/badge/Jupyter-602121?style=for-the-badge&logo=jupyter&logoColor=FFFDFD)
+![PANDAS](https://img.shields.io/badge/Pandas-632222?style=for-the-badge&logo=pandas&logoColor=FFFAFA)
+![NUMPY](https://img.shields.io/badge/NumPy-672525?style=for-the-badge&logo=numpy&logoColor=FFFAFA)
+![SCIPY](https://img.shields.io/badge/SciPy-6A2727?style=for-the-badge&logo=scipy&logoColor=FFFAFA)
+![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-6E2A2A?style=for-the-badge&logo=matplotlib&logoColor=FFF8F8)
+![SEABORN](https://img.shields.io/badge/Seaborn-732D2D?style=for-the-badge&logo=seaborn&logoColor=FFF8F8)  
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-681C1C?style=for-the-badge&logo=postgresql&logoColor=FFFDFD)
+![SQLITE](https://img.shields.io/badge/SQLite-6B2020?style=for-the-badge&logo=sqlite&logoColor=FFFDFD)
+![SPREADSHEETS](https://img.shields.io/badge/Spreadsheets-6E2323?style=for-the-badge&logo=google-sheets&logoColor=FFFAFA)
+![MONGODB](https://img.shields.io/badge/MongoDB-712626?style=for-the-badge&logo=mongodb&logoColor=FFFAFA)
+![APACHE_SPARK](https://img.shields.io/badge/Apache_Spark-752929?style=for-the-badge&logo=apachespark&logoColor=FFFAFA)  
+![POWERBI](https://img.shields.io/badge/Power_BI-5E1F1F?style=for-the-badge&logo=powerbi&logoColor=FFF8F8)  
+![STATISTICS](https://img.shields.io/badge/Statistics-5E1F1F?style=for-the-badge&logo=mathworks&logoColor=FFF8E0)
+![REGEX](https://img.shields.io/badge/Regex-602222?style=for-the-badge&logo=regex&logoColor=FFF8E0)
 
 
 <!-- 
@@ -31,11 +28,9 @@
 ---
 
 ## Projects
-
 [**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)  
 Food Delivery Time Analysis  
 `pandas` `seaborn` `scipy`  `Statistics`
-
 [**Project Euler Solutions**](https://github.com/igor-zalevskii/Project-Euler)  
 Optimized Mathematical Problem Solving  
 `algorithms`
