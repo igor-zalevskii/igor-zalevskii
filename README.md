@@ -1,26 +1,27 @@
 
 
 
-![PYTHON](https://img.shields.io/badge/Python-3C2F2F?style=for-the-badge&logo=python&logoColor=F8E9D0)
-![JUPYTER](https://img.shields.io/badge/Jupyter-3C2F2F?style=for-the-badge&logo=jupyter&logoColor=F8E9D0)
+
+![PYTHON](https://img.shields.io/badge/Python-5E1F1F?style=for-the-badge&logo=python&logoColor=FFFAF0)
+![JUPYTER](https://img.shields.io/badge/Jupyter-5E1F1F?style=for-the-badge&logo=jupyter&logoColor=FFFAF0)
 ![PANDAS](https://img.shields.io/badge/Pandas-552222?style=for-the-badge&logo=pandas&logoColor=FDF2E3)
 ![NUMPY](https://img.shields.io/badge/NumPy-552222?style=for-the-badge&logo=numpy&logoColor=FDF2E3)
 ![SCIPY](https://img.shields.io/badge/SciPy-552222?style=for-the-badge&logo=scipy&logoColor=FDF2E3)
-![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-6E2C2C?style=for-the-badge&logo=matplotlib&logoColor=FDEBD2)
-![SEABORN](https://img.shields.io/badge/Seaborn-6E2C2C?style=for-the-badge&logo=seaborn&logoColor=FDEBD2)
+![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-3C2F2F?style=for-the-badge&logo=matplotlib&logoColor=F8E9D0)
+![SEABORN](https://img.shields.io/badge/Seaborn-3C2F2F?style=for-the-badge&logo=seaborn&logoColor=F8E9D0)
 
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-472D2D?style=for-the-badge&logo=postgresql&logoColor=FFFAF0)
-![SQLITE](https://img.shields.io/badge/SQLite-472D2D?style=for-the-badge&logo=sqlite&logoColor=FFFAF0)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-681C1C?style=for-the-badge&logo=postgresql&logoColor=FFF3DC)
+![SQLITE](https://img.shields.io/badge/SQLite-681C1C?style=for-the-badge&logo=sqlite&logoColor=FFF3DC)
 ![SPREADSHEETS](https://img.shields.io/badge/Spreadsheets-6A2E2E?style=for-the-badge&logo=google-sheets&logoColor=FFF5DC)
-![MONGODB](https://img.shields.io/badge/MongoDB-681C1C?style=for-the-badge&logo=mongodb&logoColor=FFF3DC)
-![APACHE_SPARK](https://img.shields.io/badge/Apache_Spark-681C1C?style=for-the-badge&logo=apachespark&logoColor=FFF3DC)
+![MONGODB](https://img.shields.io/badge/MongoDB-472D2D?style=for-the-badge&logo=mongodb&logoColor=FFFAF0)
+![APACHE_SPARK](https://img.shields.io/badge/Apache_Spark-472D2D?style=for-the-badge&logo=apachespark&logoColor=FFFAF0)
 
-![POWERBI](https://img.shields.io/badge/Power_BI-532F2F?style=for-the-badge&logo=powerbi&logoColor=F5EFE7)
+
+
+![POWERBI](https://img.shields.io/badge/Power_BI-5E1F1F?style=for-the-badge&logo=powerbi&logoColor=F5EFE7)
 
 ![STATISTICS](https://img.shields.io/badge/Statistics-5E1F1F?style=for-the-badge&logo=mathworks&logoColor=FFE9B0)
 ![REGEX](https://img.shields.io/badge/Regex-5E1F1F?style=for-the-badge&logo=regex&logoColor=FFE9B0)
-
-
 
 
 
