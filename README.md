@@ -15,6 +15,20 @@
 ![STATISTICS](https://img.shields.io/badge/Statistics-5E1F1F?style=for-the-badge&logo=mathworks&logoColor=FFF8E0)
 ![REGEX](https://img.shields.io/badge/Regex-602222?style=for-the-badge&logo=regex&logoColor=FFF8E0)
 
+## Projects
+[**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)  
+Food Delivery Time Analysis  
+`pandas` `seaborn` `scipy`  `Statistics`
+
+[**Project Euler Solutions**](https://github.com/igor-zalevskii/Project-Euler)  
+Optimized Mathematical Problem Solving  
+`algorithms`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&layout=donut&theme=shadow_red&disable_animations=true&hide_title=true)](https://github.com/igor-zalevskii/github-readme-stats)
+
+## Contacts
+Email: igor-zalevskii@yandex.ru
+
 
 <!-- 
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,22 +40,5 @@
 API
 хадуп
 
-
 📕 Беседы о математике. Книга 1. Дискретные объекты (Болтянский В.Г.)
 -->
-
----
-
-## Projects
-[**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)  
-Food Delivery Time Analysis  
-`pandas` `seaborn` `scipy`  `Statistics`
-
-[**Project Euler Solutions**](https://github.com/igor-zalevskii/Project-Euler)  
-Optimized Mathematical Problem Solving  
-`algorithms`
-
----
-
-## Contacts
-Email: igor-zalevskii@yandex.ru
