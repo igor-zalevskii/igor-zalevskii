@@ -25,6 +25,9 @@
 ![OPENREFINE](https://img.shields.io/badge/OpenRefine-1563A0?style=for-the-badge&logo=openrefine&logoColor=white)
 API
 хадуп
+
+
+📕 Беседы о математике. Книга 1. Дискретные объекты (Болтянский В.Г.)
 -->
 
 ---
