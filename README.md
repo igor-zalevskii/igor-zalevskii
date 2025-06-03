@@ -34,7 +34,7 @@ Curriculum of the course
 
 
 ## Contacts
-Email: igor-zalevskii@yandex.ru
+✉️ igor-zalevskii@yandex.ru
 
 
 <!-- 
