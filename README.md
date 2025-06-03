@@ -25,7 +25,7 @@ Optimized Mathematical Problem Solving
 `algorithms`
 
 [**Basics of programming with Python**](https://igor-zalevskii.github.io/python)  
-Course "Basics of programming with Python"
+Course "Basics of programming with Python"  
 `pedagogy`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&layout=donut&theme=shadow_red&disable_animations=true&hide_title=true)](https://github.com/igor-zalevskii/github-readme-stats)
