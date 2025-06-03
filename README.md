@@ -18,7 +18,7 @@
 ## Projects
 [**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)  
 Food Delivery Time Analysis  
-`Statistics` `pandas` `seaborn` `scipy`
+`statistics` `pandas` `seaborn` `scipy`
 
 [**Project Euler Solutions**](https://github.com/igor-zalevskii/Project-Euler)  
 Optimized Mathematical Problem Solving  
