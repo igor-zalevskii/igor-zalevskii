@@ -16,6 +16,7 @@
 ![REGEX](https://img.shields.io/badge/Regex-602222?style=for-the-badge&logo=regex&logoColor=FFF8E0)
 
 ## Projects
+
 [**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)  
 Food Delivery Time Analysis  
 `statistics` `pandas` `seaborn` `scipy`
@@ -28,13 +29,19 @@ Optimized Mathematical Problem Solving
 Curriculum of the course  
 `pedagogy`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&layout=donut&theme=shadow_red&disable_animations=true&hide_title=true)](https://github.com/igor-zalevskii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&size_weight=0.5&count_weight=0.5&hide=javascript&disable_animations=true&layout=compact&langs_count=8&hide_title=true&hide_border=true)](https://github.com/igor-zalevskii/github-readme-stats)
+
+
 
 ## Contacts
 Email: igor-zalevskii@yandex.ru
 
 
 <!-- 
+Красный градиент:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&size_weight=0.5&count_weight=0.5&hide=javascript&disable_animations=true&layout=compact&langs_count=8&hide_title=true&hide_border=true&text_color=FFFDFD&bg_color=DEG,5E1F1F,4b1818,4b1818,411515,381212)](https://github.com/igor-zalevskii/github-readme-stats)
+
+
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PLOTLY](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
