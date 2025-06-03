@@ -24,7 +24,7 @@ Food Delivery Time Analysis
 Optimized Mathematical Problem Solving  
 `algorithms`
 
-[**Basics of programming with Python**](https://igor-zalevskii.github.io/python)  
+[**Course Basics of programming with Python**](https://igor-zalevskii.github.io/python)  
 Course "Basics of programming with Python"  
 `pedagogy`
 
