@@ -1,4 +1,4 @@
-## DA toolkit
+## DA tools | Стек для анализа данных
 ![PYTHON](https://img.shields.io/badge/Python-5E1F1F?style=for-the-badge&logo=python&logoColor=FFFDFD)
 ![JUPYTER](https://img.shields.io/badge/Jupyter-602121?style=for-the-badge&logo=jupyter&logoColor=FFFDFD)
 ![PANDAS](https://img.shields.io/badge/Pandas-632222?style=for-the-badge&logo=pandas&logoColor=FFFAFA)
@@ -15,6 +15,27 @@
 ![STATISTICS](https://img.shields.io/badge/Statistics-5E1F1F?style=for-the-badge&logo=mathworks&logoColor=FFF8E0)
 ![REGEX](https://img.shields.io/badge/Regex-602222?style=for-the-badge&logo=regex&logoColor=FFF8E0)
 
+## Projects | Проекты
+
+
+[**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)  
+Food Delivery Time Analysis | Анализ времени доставки еды  
+`statistics` `pandas` `seaborn` `scipy`
+
+[**Project Euler Solutions**](https://github.com/igor-zalevskii/Project-Euler)  
+Optimized Mathematical Problem Solving | Решения математических задач  
+`algorithms`
+
+[**"Basics of programming with Python"**](https://igor-zalevskii.github.io/python)  
+Curriculum of the Course | Куррикулум курса  
+`pedagogy`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&size_weight=0.5&count_weight=0.5&hide=javascript&disable_animations=true&layout=compact&langs_count=8&hide_title=true&hide_border=true)](https://github.com/igor-zalevskii/github-readme-stats)
+
+
+
+<!-- 
+
 ## Projects
 
 [**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)  
@@ -29,10 +50,10 @@ Optimized Mathematical Problem Solving
 Curriculum of the course  
 `pedagogy`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&size_weight=0.5&count_weight=0.5&hide=javascript&disable_animations=true&layout=compact&langs_count=8&hide_title=true&hide_border=true)](https://github.com/igor-zalevskii/github-readme-stats)
 
 
-<!-- 
+
+
 Красный градиент:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&size_weight=0.5&count_weight=0.5&hide=javascript&disable_animations=true&layout=compact&langs_count=8&hide_title=true&hide_border=true&text_color=FFFDFD&bg_color=DEG,5E1F1F,4b1818,4b1818,411515,381212)](https://github.com/igor-zalevskii/github-readme-stats)
 
