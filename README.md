@@ -8,12 +8,15 @@
 ![SEABORN](https://img.shields.io/badge/Seaborn-732D2D?style=for-the-badge&logo=seaborn&logoColor=FFF8F8)  
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-681C1C?style=for-the-badge&logo=postgresql&logoColor=FFFDFD)
 ![SQLITE](https://img.shields.io/badge/SQLite-6B2020?style=for-the-badge&logo=sqlite&logoColor=FFFDFD)
+![REGEX](https://img.shields.io/badge/Regex-602222?style=for-the-badge&logo=regex&logoColor=FFF8E0)
+
+<!--
 ![SPREADSHEETS](https://img.shields.io/badge/Spreadsheets-6E2323?style=for-the-badge&logo=google-sheets&logoColor=FFFAFA)
 ![MONGODB](https://img.shields.io/badge/MongoDB-712626?style=for-the-badge&logo=mongodb&logoColor=FFFAFA)
 ![APACHE_SPARK](https://img.shields.io/badge/Apache_Spark-752929?style=for-the-badge&logo=apachespark&logoColor=FFFAFA)  
 ![POWERBI](https://img.shields.io/badge/Power_BI-5E1F1F?style=for-the-badge&logo=powerbi&logoColor=FFF8F8)  
 ![STATISTICS](https://img.shields.io/badge/Statistics-5E1F1F?style=for-the-badge&logo=mathworks&logoColor=FFF8E0)
-![REGEX](https://img.shields.io/badge/Regex-602222?style=for-the-badge&logo=regex&logoColor=FFF8E0)
+-->
 
 ## Projects | Проекты
 
