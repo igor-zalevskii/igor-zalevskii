@@ -29,7 +29,7 @@ Optimized Mathematical Problem Solving | Решения математическ
 `algorithms`
 
 [**Algorithms and Data Structures**](https://github.com/igor-zalevskii/algorithms-and-data-structures)  
-Searching and sorting algorithms, data structures on C | Алгоритмы поиска и сортировки и структуры данных на C  
+Searching and sorting algorithms, data structures on C | Алгоритмы поиска и сортировки, структуры данных на C  
 `algorithms`
 
 [**"Basics of programming with Python"**](https://igor-zalevskii.github.io/python)  
