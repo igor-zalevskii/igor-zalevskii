@@ -20,7 +20,6 @@
 
 ## Projects | Проекты
 
-
 [**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)  
 Food Delivery Time Analysis | Анализ времени доставки еды  
 `statistics` `pandas` `seaborn` `scipy`
@@ -28,7 +27,6 @@ Food Delivery Time Analysis | Анализ времени доставки ед�
 [**Project Euler Solutions**](https://github.com/igor-zalevskii/Project-Euler)  
 Optimized Mathematical Problem Solving | Решения математических задач  
 `algorithms`
-
 
 [**Algorithms and Data Structures**](https://github.com/igor-zalevskii/algorithms-and-data-structures)  
 Searching and sorting algorithms on C | Алгоритмы поиска и сортировки на C  
@@ -57,9 +55,6 @@ Optimized Mathematical Problem Solving
 [**"Basics of programming with Python"**](https://igor-zalevskii.github.io/python)  
 Curriculum of the course  
 `pedagogy`
-
-
-
 
 
 Красный градиент:
