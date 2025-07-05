@@ -29,6 +29,11 @@ Food Delivery Time Analysis | Анализ времени доставки ед�
 Optimized Mathematical Problem Solving | Решения математических задач  
 `algorithms`
 
+
+[**Algorithms and Data Structures**](https://github.com/igor-zalevskii/algorithms-and-data-structures)  
+Searching and sorting algorithms on C | Алгоритмы поиска и сортировки на C
+`algorithms`
+
 [**"Basics of programming with Python"**](https://igor-zalevskii.github.io/python)  
 Curriculum of the Course | Куррикулум курса  
 `pedagogy`
