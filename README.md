@@ -1,5 +1,4 @@
 ## DA tools | Стек для анализа данных
-![PYTHON](https://img.shields.io/badge/Python-5E1F1F?style=for-the-badge&logo=python&logoColor=FFFDFD)
 ![JUPYTER](https://img.shields.io/badge/Jupyter-602121?style=for-the-badge&logo=jupyter&logoColor=FFFDFD)
 ![PANDAS](https://img.shields.io/badge/Pandas-632222?style=for-the-badge&logo=pandas&logoColor=FFFAFA)
 ![NUMPY](https://img.shields.io/badge/NumPy-672525?style=for-the-badge&logo=numpy&logoColor=FFFAFA)
@@ -11,6 +10,7 @@
 ![REGEX](https://img.shields.io/badge/Regex-602222?style=for-the-badge&logo=regex&logoColor=FFF8E0)
 
 <!--
+![PYTHON](https://img.shields.io/badge/Python-5E1F1F?style=for-the-badge&logo=python&logoColor=FFFDFD)
 ![SPREADSHEETS](https://img.shields.io/badge/Spreadsheets-6E2323?style=for-the-badge&logo=google-sheets&logoColor=FFFAFA)
 ![MONGODB](https://img.shields.io/badge/MongoDB-712626?style=for-the-badge&logo=mongodb&logoColor=FFFAFA)
 ![APACHE_SPARK](https://img.shields.io/badge/Apache_Spark-752929?style=for-the-badge&logo=apachespark&logoColor=FFFAFA)  
@@ -36,7 +36,7 @@ Searching and sorting algorithms, data structures on C | Алгоритмы по
 Curriculum of the Course | Куррикулум курса  
 `pedagogy`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&size_weight=0.5&count_weight=0.5&hide=javascript&disable_animations=true&layout=compact&langs_count=8&hide_title=true&hide_border=true)](https://github.com/igor-zalevskii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&size_weight=0.5&count_weight=0.5&hide=javascript&disable_animations=true&layout=compact&langs_count=8&hide_title=true&hide_border=true&text_color=FFFDFD&bg_color=5E1F1F&hide_progress=true)](https://github.com/igor-zalevskii/github-readme-stats)
 
 
 
