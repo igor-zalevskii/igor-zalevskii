@@ -1,4 +1,46 @@
 ## DA tools | Стек для анализа данных
+```mermaid
+block-beta
+  columns 3
+  a:3
+  block:group1:2
+    columns 2
+    h i j k
+  end
+  g
+  block:group2:3
+    %% columns auto (default)
+    l m n o p q r
+  end
+
+
+```
+
+Languages
+  C
+    Python
+      NumPy
+        Pandas
+      matplotlib
+        seaborn
+  SQL
+    PostgreSQL
+    SQLite3
+  RegEx
+Probability
+  Statistics
+    Descriptive Analysis
+
+
+
+
+|   languages      |         |
+| ---------------- | ---------------- |
+| Python          | NumPy, Pandas, Seaborn |
+| SQL    | SQLite3       | PostgreSQL      |
+| Regex | 
+| Statistics | 
+
 ![JUPYTER](https://img.shields.io/badge/Jupyter-602121?style=for-the-badge&logo=jupyter&logoColor=FFFDFD)
 ![PANDAS](https://img.shields.io/badge/Pandas-632222?style=for-the-badge&logo=pandas&logoColor=FFFAFA)
 ![NUMPY](https://img.shields.io/badge/NumPy-672525?style=for-the-badge&logo=numpy&logoColor=FFFAFA)
