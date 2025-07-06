@@ -1,4 +1,9 @@
 <!--
+TODO: github conventions
+https://github.com/GoldenbergLab/naming-and-documentation-conventions
+-->
+
+<!--
 ## DA tools | Стек для анализа данных
 ```mermaid
 block-beta
