@@ -73,7 +73,7 @@ Probability
 Food Delivery Time Analysis | Анализ времени доставки еды  
 `statistics` `pandas` `seaborn` `scipy`
 
-[**Project Euler Solutions**](https://github.com/igor-zalevskii/Project-Euler)  
+[**Project Euler Solutions**](https://github.com/igor-zalevskii/project-euler)  
 Optimized Mathematical Problem Solving | Решения математических задач  
 `algorithms`
 
