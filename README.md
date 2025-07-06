@@ -76,8 +76,8 @@ Optimized Mathematical Problem Solving | Решения математическ
 Searching and sorting algorithms, data structures on C | Алгоритмы поиска и сортировки, структуры данных на C  
 `algorithms`
 
-[**"Basics of programming with Python"**](https://igor-zalevskii.github.io/python)  
-Curriculum of the Course | Куррикулум курса  
+[**"Основы программирования с Python 23/24"**](https://igor-zalevskii.github.io/python)  
+Curriculum of the Course | Куррикулум авторского курса  
 `pedagogy`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&size_weight=0.5&count_weight=0.5&hide=javascript&disable_animations=true&layout=compact&langs_count=8&hide_title=true&hide_border=true&text_color=FFFDFD&bg_color=5E1F1F&hide_progress=true)](https://github.com/igor-zalevskii/github-readme-stats)
