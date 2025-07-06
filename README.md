@@ -1,3 +1,4 @@
+<!--
 ## DA tools | Стек для анализа данных
 ```mermaid
 block-beta
@@ -40,6 +41,7 @@ Probability
 | SQL    | SQLite3       | PostgreSQL      |
 | Regex | 
 | Statistics | 
+-->
 
 ![JUPYTER](https://img.shields.io/badge/Jupyter-602121?style=for-the-badge&logo=jupyter&logoColor=FFFDFD)
 ![PANDAS](https://img.shields.io/badge/Pandas-632222?style=for-the-badge&logo=pandas&logoColor=FFFAFA)
