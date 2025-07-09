@@ -1,70 +1,21 @@
-<!--
-TODO: github conventions
-https://github.com/GoldenbergLab/naming-and-documentation-conventions
--->
-
-<!--
-## DA tools | Стек для анализа данных
-```mermaid
-block-beta
-  columns 3
-  a:3
-  block:group1:2
-    columns 2
-    h i j k
-  end
-  g
-  block:group2:3
-    %% columns auto (default)
-    l m n o p q r
-  end
-
-
-```
-
-Languages
-  C
-    Python
-      NumPy
-        Pandas
-      matplotlib
-        seaborn
-  SQL
-    PostgreSQL
-    SQLite3
-  RegEx
-Probability
-  Statistics
-    Descriptive Analysis
-
-
-
-
-|   languages      |         |
-| ---------------- | ---------------- |
-| Python          | NumPy, Pandas, Seaborn |
-| SQL    | SQLite3       | PostgreSQL      |
-| Regex | 
-| Statistics | 
--->
-
+![PYTHON](https://img.shields.io/badge/Python-5E1F1F?style=for-the-badge&logo=python&logoColor=FFFDFD)
 ![JUPYTER](https://img.shields.io/badge/Jupyter-602121?style=for-the-badge&logo=jupyter&logoColor=FFFDFD)
 ![PANDAS](https://img.shields.io/badge/Pandas-632222?style=for-the-badge&logo=pandas&logoColor=FFFAFA)
 ![NUMPY](https://img.shields.io/badge/NumPy-672525?style=for-the-badge&logo=numpy&logoColor=FFFAFA)
-![SCIPY](https://img.shields.io/badge/SciPy-6A2727?style=for-the-badge&logo=scipy&logoColor=FFFAFA)
-![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-6E2A2A?style=for-the-badge&logo=matplotlib&logoColor=FFF8F8)
-![SEABORN](https://img.shields.io/badge/Seaborn-732D2D?style=for-the-badge&logo=seaborn&logoColor=FFF8F8)  
+![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-6E2A2A?style=for-the-badge&logo=matplotlib&logoColor=FFF8F8)  
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-681C1C?style=for-the-badge&logo=postgresql&logoColor=FFFDFD)
 ![SQLITE](https://img.shields.io/badge/SQLite-6B2020?style=for-the-badge&logo=sqlite&logoColor=FFFDFD)
 ![REGEX](https://img.shields.io/badge/Regex-602222?style=for-the-badge&logo=regex&logoColor=FFF8E0)
 
 <!--
-![PYTHON](https://img.shields.io/badge/Python-5E1F1F?style=for-the-badge&logo=python&logoColor=FFFDFD)
+![SCIPY](https://img.shields.io/badge/SciPy-6A2727?style=for-the-badge&logo=scipy&logoColor=FFFAFA)
 ![SPREADSHEETS](https://img.shields.io/badge/Spreadsheets-6E2323?style=for-the-badge&logo=google-sheets&logoColor=FFFAFA)
 ![MONGODB](https://img.shields.io/badge/MongoDB-712626?style=for-the-badge&logo=mongodb&logoColor=FFFAFA)
 ![APACHE_SPARK](https://img.shields.io/badge/Apache_Spark-752929?style=for-the-badge&logo=apachespark&logoColor=FFFAFA)  
 ![POWERBI](https://img.shields.io/badge/Power_BI-5E1F1F?style=for-the-badge&logo=powerbi&logoColor=FFF8F8)  
 ![STATISTICS](https://img.shields.io/badge/Statistics-5E1F1F?style=for-the-badge&logo=mathworks&logoColor=FFF8E0)
+![SEABORN](https://img.shields.io/badge/Seaborn-732D2D?style=for-the-badge&logo=seaborn&logoColor=FFF8F8)  
+
 -->
 
 ## Projects | Проекты
@@ -73,20 +24,15 @@ Probability
 Food Delivery Time Analysis | Анализ времени доставки еды  
 `statistics` `pandas` `seaborn` `scipy`
 
-[**Project Euler Solutions**](https://github.com/igor-zalevskii/project-euler)  
-Optimized Mathematical Problem Solving | Решения математических задач  
-`algorithms`
+**Профилирование и базовый анализ данных**
 
-[**Algorithms and Data Structures**](https://github.com/igor-zalevskii/algorithms-and-data-structures)  
-Classical algorithms and data structures | Классические алгоритмы и структуры данных  
-`algorithms`
+**ERD**
 
 [**"Основы программирования с Python 23/24"**](https://igor-zalevskii.github.io/python)  
 Curriculum of the Course | Куррикулум авторского курса  
 `pedagogy`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&size_weight=0.5&count_weight=0.5&hide=javascript&disable_animations=true&layout=compact&langs_count=8&hide_title=true&hide_border=true&text_color=FFFDFD&bg_color=5E1F1F&hide_progress=true)](https://github.com/igor-zalevskii/github-readme-stats)
-
 
 
 <!-- 
@@ -97,8 +43,8 @@ Curriculum of the Course | Куррикулум авторского курса
 Food Delivery Time Analysis  
 `statistics` `pandas` `seaborn` `scipy`
 
-[**Project Euler Solutions**](https://github.com/igor-zalevskii/Project-Euler)  
-Optimized Mathematical Problem Solving  
+[**Algorithms and Data Structures**](https://github.com/igor-zalevskii/algorithms-and-data-structures)  
+Classical algorithms and data structures | Классические алгоритмы и структуры данных  
 `algorithms`
 
 [**"Basics of programming with Python"**](https://igor-zalevskii.github.io/python)  
