@@ -28,9 +28,11 @@ Food Delivery Time Analysis | Анализ времени доставки ед�
 
 **ERD**
 
-[**"Основы программирования с Python 23/24"**](https://igor-zalevskii.github.io/python)  
+[**Авторский курс "Основы программирования с Python 23/24"**](https://igor-zalevskii.github.io/python)  
 Curriculum of the Course | Куррикулум авторского курса  
 `pedagogy`
+
+# Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&size_weight=0.5&count_weight=0.5&hide=javascript&disable_animations=true&layout=compact&langs_count=8&hide_title=true&hide_border=true&text_color=FFFDFD&bg_color=5E1F1F&hide_progress=true)](https://github.com/igor-zalevskii/github-readme-stats)
 
