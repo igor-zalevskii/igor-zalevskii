@@ -19,16 +19,18 @@
 -->
 
 ## Projects | Проекты
-
-[**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)  
+             
+[**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/delivery)  
 Food Delivery Time Analysis | Анализ времени доставки еды  
 `statistics` `pandas` `seaborn` `scipy`
 
-**Профилирование и базовый анализ данных**
+[**Профилирование и базовый анализ данных**](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/employees)
+Data profiling, basic analytics | Профилирование данных, базовая аналитика.
+`pandas`, `seaborn`, `scipy`
 
 **ERD**
 
-[**Авторский курс "Основы программирования с Python 23/24"**](https://igor-zalevskii.github.io/python)  
+[**Курс "Основы программирования с Python 23/24"**](https://igor-zalevskii.github.io/python)  
 Curriculum of the Course | Куррикулум курса  
 `pedagogy`
 
