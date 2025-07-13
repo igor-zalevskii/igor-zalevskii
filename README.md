@@ -19,11 +19,15 @@
 -->
 
 ## Projects | Проекты
-             
+### Inferential statistics | Индуктивная статистика
 [**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/delivery)  
 Food Delivery Time Analysis | Анализ времени доставки еды  
 `statistics` `pandas` `seaborn` `scipy`
 
+### Descriptive statistics | Описательная статистика
+...
+
+### Data profiling | Профилирование данных
 [**Профилирование и базовый анализ данных**](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/employees)  
 Data profiling, basic analytics | Профилирование данных, базовая аналитика  
 `pandas` `seaborn` `scipy`
