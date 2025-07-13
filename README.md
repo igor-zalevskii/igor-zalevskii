@@ -34,6 +34,8 @@ Data profiling, basic analytics | Профилирование данных, б�
 
 **ERD**  
 
+---
+
 [**Курс "Основы программирования с Python 23/24"**](https://igor-zalevskii.github.io/python)  
 Curriculum of the Course | Куррикулум курса  
 `pedagogy`
