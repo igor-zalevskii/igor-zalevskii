@@ -24,8 +24,9 @@
 Food Delivery Time Analysis | Анализ времени доставки еды  
 `statistics` `pandas` `seaborn` `scipy`
 
-### Descriptive statistics | Описательная статистика
+<!-- ### Descriptive statistics | Описательная статистика
 ...
+-->
 
 ### Data profiling | Профилирование данных
 [**Профилирование и базовый анализ данных**](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/employees)  
