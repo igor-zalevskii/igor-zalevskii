@@ -34,8 +34,8 @@ Data profiling, basic analytics | Профилирование данных, б�
 `pandas` `seaborn` `scipy`
 
 **ERD**  
-
----
+[ERD](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/erd-bank)
+`erd` `PostgreSQL`
 
 [**Курс "Основы программирования с Python 23/24"**](https://igor-zalevskii.github.io/python)  
 Curriculum of the Course | Куррикулум курса  
