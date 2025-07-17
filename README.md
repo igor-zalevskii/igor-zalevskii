@@ -18,33 +18,31 @@
 
 -->
 
-## Projects | Проекты
-### Inferential statistics | Индуктивная статистика
+## Проекты
+### Индуктивная статистика  
 [**t-test**](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/delivery)  
-Food Delivery Time Analysis | Анализ времени доставки еды  
+Анализ времени доставки еды  
 `statistics` `pandas` `seaborn` `scipy`
 
 <!-- ### Descriptive statistics | Описательная статистика
 ...
 -->
-
-### Data profiling | Профилирование данных
+### Профилирование данных
 [**Профилирование и базовый анализ данных**](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/employees)  
-Data profiling, basic analytics | Профилирование данных, базовая аналитика  
+Профилирование данных, базовая аналитика  
 `pandas` `seaborn` `scipy`
 
----
-**ERD**  
-[Учебная ER‑модель банка](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/erd-bank)  
-`erd` `PostgreSQL`
+### ERD  
+[ER-модель](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/erd-bank)  
+Учебная ER‑модель банка  
+`PostgreSQL`
 
----
+### Python  
 [**Курс "Основы программирования с Python 23/24"**](https://igor-zalevskii.github.io/python)  
-Curriculum of the Course | Куррикулум курса  
-`pedagogy`
+Куррикулум курса  
+`педагогика`
 
-### Top Languages
-
+## Языки  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-zalevskii&size_weight=0.5&count_weight=0.5&hide=javascript&disable_animations=true&layout=compact&langs_count=8&hide_title=true&hide_border=true&text_color=FFFDFD&bg_color=5E1F1F&hide_progress=true)](https://github.com/igor-zalevskii/github-readme-stats)
 
 
