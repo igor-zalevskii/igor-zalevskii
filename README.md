@@ -33,10 +33,12 @@ Food Delivery Time Analysis | Анализ времени доставки ед�
 Data profiling, basic analytics | Профилирование данных, базовая аналитика  
 `pandas` `seaborn` `scipy`
 
+---
 **ERD**  
-[ERD](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/erd-bank)  
+[Учебная ER‑модель банка](https://github.com/igor-zalevskii/code-lab/tree/main/data-analysis/erd-bank)  
 `erd` `PostgreSQL`
 
+---
 [**Курс "Основы программирования с Python 23/24"**](https://igor-zalevskii.github.io/python)  
 Curriculum of the Course | Куррикулум курса  
 `pedagogy`
